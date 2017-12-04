@@ -1,0 +1,6 @@
+.ic:initial condition  以電容而言，其ic是電壓，以電感而
+  言，其ic是電流，通常在電路中會設initial condition是為了
+ 要加速收斂
+
+ .op:operation point  操作點分析，執行這個指令，在.lis檔
+ 裡會有電路節點的電壓或電流的資訊
